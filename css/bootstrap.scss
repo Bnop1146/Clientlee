@@ -4,6 +4,19 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
+
+:root {
+
+  --tekstfarve: #3b3b3b;
+  --ikonercta: #5235D4;
+  --farve2: #0C0623;
+}
+:root{
+  --overskrift-font: 'Red Hat Display',serif;
+  --tekst-font: 'Poppins',serif;
+
+}
+
 //Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
 /*
 Eksempel på farver

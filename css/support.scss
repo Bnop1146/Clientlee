@@ -1,0 +1,239 @@
+.hovedtitle{
+  font-family: var(--overskrift-font);
+  font-size: 30px;
+}
+
+.hero-full-screen {
+  height: 85vh;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background: url(../image/kontakthero.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.hero-full-screen .middle-content-section {
+  text-align: center;
+  color: #fefefe;
+}
+
+.hero-full-screen .top-content-section {
+  width: 100%;
+}
+
+.hero-full-screen .bottom-content-section {
+  padding: 1rem;
+}
+
+.hero-full-screen .bottom-content-section svg {
+  height: 3.75rem;
+  width: 3.75rem;
+  fill: #fefefe;
+}
+
+.hero-full-screen .top-bar {
+  background: transparent;
+}
+
+.hero-full-screen .top-bar .menu {
+  background: transparent;
+}
+
+.hero-full-screen .top-bar .menu-text {
+  color: #fefefe;
+}
+
+.hero-full-screen .top-bar .menu li {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.hero-full-screen .top-bar .menu a {
+  color: #fefefe;
+  font-weight: bold;
+}
+
+.kontaktsektion{
+  background: url(../image/background-desktop-venstre.png);
+  background-size: cover;
+}
+
+
+
+.contact-form{
+  max-width: 600px;
+  padding: 0 10px;
+  overflow: hidden;
+  margin-bottom: 80px;
+}
+
+.contact-form-text{
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 16px 0;
+  padding: 20px 20px;
+  outline: none;
+  color: var(--text-color);
+  transition: 0.5s;
+  font-size: 14px;
+}
+
+textarea.contact-form-text{
+  resize: none;
+  height: 120px;
+}
+.contact-form-btn{
+  border: 0!important;
+  background: var(--ikonercta) !important;
+  color:white!important;
+  padding: 12px 50px!important;
+  border-radius: 100px!important;
+  cursor: pointer!important;
+  transition: 0.5s!important;
+  margin-top: 5px!important;
+  font-family: var(--tekst-font) !important;
+  font-size: 13px!important;
+}
+
+.infotekst2{
+  line-height: 2;
+  color: var(--tekstfarve);
+  font-size: 13px;
+  font-family: var(--tekst-font);
+  text-align: center;
+
+}
+
+.infoover{
+  font-size: 22px;
+  text-align: center;
+  color: var(--tekstfarve);
+  font-family: var(--overskrift-font);
+  font-weight: bold;
+}
+
+.line{
+  margin: auto;
+  background-color: var(--tekstfarve);
+  height: 1px;
+  width: 10%;
+  text-align: center;
+}
+
+.kontaktline{
+  margin: auto;
+  background-color: var(--tekstfarve);
+  height: 1px;
+  width: 10%;
+}
+
+.map{
+  margin-bottom: 40px;
+}
+
+.omkontakt{
+  background: var(--first-color);
+  padding: 10px;
+}
+.kontaktover{
+  font-size: 22px;
+  color: var(--tekstfarve);
+  font-family: var(--overskrift-font);
+  font-weight: bold;
+}
+.kontakttekst{
+  line-height: 2.5;
+  font-size: 13px;
+  color: var(--tekstfarve);
+  font-family: var(--tekst-font);
+}
+
+
+
+@media screen and (min-width: 768px){
+  .hovedtitle{
+    font-size: 32px;
+  }
+  .kontaktcon{
+    max-width: 520px!important;
+  }
+
+  .contact-form{
+    padding: 0 60px;
+    max-width: 700px;
+  }
+
+  .line1{
+    margin: auto;
+    width: 20%;
+  }
+
+  .contact-form{
+    text-align: left;
+  }
+  .line{
+    width: 5%;
+  }
+  .infoover{
+    font-size: 22px;
+  }
+  .kontaktover{
+    font-size: 22px;
+  }
+
+
+}
+
+@media screen and (min-width: 1024px){
+  .hovedtitle{
+    font-size: 34px;
+  }
+
+  .contact-form{
+    padding: 0 60px;
+    max-width: 800px;
+  }
+
+  .line1{
+    margin: auto;
+    width: 15%;
+  }
+  .kontaktover{
+    font-size: 24px;
+  }
+  .kontaktline{
+    width: 8%;
+  }
+  .infotekst2{
+    font-size: 14px;
+  }
+  .kontaktcon{
+    max-width: 1150px!important;
+  }
+  .kontakttekst{
+    font-size: 14px;
+    width: 60%;
+    margin: auto;
+  }
+  .infoover{
+    font-size: 24px;
+  }
+  .contact-form-btn{
+    font-size: 14px!important;
+  }
+
+}
