@@ -19,10 +19,38 @@
 
 <body>
 
+<?php include 'navbar.php';?>
+
+
+<div class="oversek">
+    <div class="overcon container">
+        <p class="prisover text-white">Support</p>
+        <p class="pristekst text-white">Brug venligst kontaktformularen herunder for at kontakte os med diverse spørgsmål. Vi vender tilbage med svar hurtigst muligt. Du er også velkommen til at ringe eller sende en sms.
+        </p>
+
+    </div>
+
+</div>
+
+<svg id="Group_45" data-name="Group 45" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svgbg" width="100%" height="100%" viewBox="0 0 1920 548">
+    <defs>
+        <clipPath id="clip-path">
+            <rect width="1920" height="548" fill="none"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="wave-haikei_5_" data-name="wave-haikei (5)" d="M0,220l64,29.7c64,29.6,192,89,320,87.5s256-63.9,384-82.4,256,6.9,384,51.7,256,109.2,384,152.7,256,66.1,320,77.5l64,11.3V0H0Z" fill="#5235d4"/>
+        </clipPath>
+    </defs>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+        <path id="wave-haikei_5_2" data-name="wave-haikei (5)" d="M0,220l64,29.7c64,29.6,192,89,320,87.5s256-63.9,384-82.4,256,6.9,384,51.7,256,109.2,384,152.7,256,66.1,320,77.5l64,11.3V0H0Z" fill="#5235d4"/>
+    </g>
+</svg>
+
+
+
+
+
 <div id="main-content-section" data-magellan-target="main-content-section">
-
-    
-
 
 
     <div class="kontaktsektion container-fluid p-3" id="kontaktformular">
