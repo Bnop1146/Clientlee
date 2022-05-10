@@ -49,88 +49,60 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 col-sm-6 p-4">
-            <div class="pricingTable purple">
-                <div class="pricingTable-header mt-5">
-                    <h3>Standard</h3>
-                    <span>Lorem ipsum dolor</span>
-                </div>
-                <div class="pricing-plans">
-                    <span class="price-value"><i class="fa fa-usd"></i><span>149</span></span>
-                    <span class="month">/kr/md.</span>
-                </div>
-                <div class="pricingContent">
-                    <ul>
-                        <li><b>50GB</b> Disk Space</li>
-                        <li><b>50</b> Email Accounts</li>
-                        <li><b>50GB</b> Monthly Bandwidth</li>
-                        <li><b>10</b> subdomains</li>
-                        <li><b>15</b> Domains</li>
-                    </ul>
-                </div><!-- CONTENT BOX-->
-                <div class="pricingTable-sign-up">
-                    <a href="#" class="btn btn-block">sign up</a>
-                </div><!-- BUTTON BOX-->
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6 p-4">
-            <div class="pricingTable purple1">
-                <div class="pricingTable-header mt-5">
-                    <h3 class="text-white">Pro</h3>
-                </div>
-                <div class="pricing-plans">
-                    <span class="price-value text-white"><i class="fa fa-usd"></i><span>149</span></span>
-                    <span class="month text-white">kr/md.</span>
-                </div>
-
-                <div class="mb-3 mt-4">
-                    <span class="text-white">Pro er til virksomheden, der er godt på vej og har brug for mere funktionalitet</span>
-                </div>
-
-            <div>
-                <a class="priscta btn" href="#" role="button">Link</a>
-            </div>
-
-                <div class="pricingContent">
-
-                    <ul>
-                        <li class="text-white"><b>50GB</b> Disk Space</li>
-                        <li class="text-white"><b>50</b> Email Accounts</li>
-                        <li class="text-white"><b>50GB</b> Monthly Bandwidth</li>
-                        <li class="text-white"><b>10</b> subdomains</li>
-                        <li class="text-white"><b>15</b> Domains</li>
-                    </ul>
-                </div><!-- CONTENT BOX-->
-
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6 p-4">
-            <div class="pricingTable purple mt-5">
+        <div class="col-md-4 col-sm-6">
+            <div class="pricingTable">
+                <span class="icon"><i class="fa fa-globe"></i></span>
                 <div class="pricingTable-header">
-                    <h3>Standard</h3>
-                    <span>Lorem ipsum dolor</span>
+                    <h3 class="title">Basic</h3>
+                    <span class="price-value">$10</span>
                 </div>
-                <div class="pricing-plans">
-                    <span class="price-value"><i class="fa fa-usd"></i><span>149</span></span>
-                    <span class="month">/kr/md.</span>
+                <ul class="pricing-content">
+                    <li>50GB Disk Space</li>
+                    <li>50 Email Accounts</li>
+                    <li>50GB Monthly Bandwidth</li>
+                    <li>10 Subdomains</li>
+                    <li>15 Domains</li>
+                </ul>
+                <a href="#" class="pricingTable-signup text-decoration-none">Vælg abonnement</a>
+            </div>
+        </div>
+
+        <div class="col-md-4 col-sm-6">
+            <div class="pricingTable">
+                <span class="icon"><i class="fa fa-globe"></i></span>
+                <div class="pricingTable-header">
+                    <h3 class="title">Pro</h3>
+                    <span class="price-value">$10</span>
                 </div>
-                <div class="pricingContent">
-                    <ul>
-                        <li><b>50GB</b> Disk Space</li>
-                        <li><b>50</b> Email Accounts</li>
-                        <li><b>50GB</b> Monthly Bandwidth</li>
-                        <li><b>10</b> subdomains</li>
-                        <li><b>15</b> Domains</li>
-                    </ul>
-                </div><!-- CONTENT BOX-->
-                <div class="pricingTable-sign-up">
-                    <a href="#" class="btn btn-block">sign up</a>
-                </div><!-- BUTTON BOX-->
+                <ul class="pricing-content">
+                    <li>50GB Disk Space</li>
+                    <li>50 Email Accounts</li>
+                    <li>50GB Monthly Bandwidth</li>
+                    <li>10 Subdomains</li>
+                    <li>15 Domains</li>
+                </ul>
+                <a href="#" class="pricingTable-signup text-decoration-none">Vælg abonnement</a>
+            </div>
+        </div>
+        <div class="col-md-4 col-sm-6">
+            <div class="pricingTable">
+                <span class="icon"><i class="fa fa-briefcase"></i></span>
+                <div class="pricingTable-header">
+                    <h3 class="title">Premium</h3>
+                    <span class="price-value">$20</span>
+                </div>
+                <ul class="pricing-content">
+                    <li>60GB Disk Space</li>
+                    <li>60 Email Accounts</li>
+                    <li>60GB Monthly Bandwidth</li>
+                    <li>15 Subdomains</li>
+                    <li>20 Domains</li>
+                </ul>
+                <a href="#" class="pricingTable-signup text-decoration-none">Vælg abonnement</a>
             </div>
         </div>
     </div>
 </div>
-
 
 
 
