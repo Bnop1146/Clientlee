@@ -1,6 +1,6 @@
 
 .pricingTable{
-  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.02);
   padding: 50px 15px;
   text-align: center;
   margin-top: 30px;
@@ -9,6 +9,7 @@
   z-index: 1;
   position: relative;
   transition: all 0.3s ease-in-out 0s;
+  border-radius: 10px;
 }
 .pricingTable:hover{ color: #fff; }
 .pricingTable:after{
@@ -28,21 +29,7 @@
   opacity: 1;
   transform: rotateY(0deg);
 }
-.pricingTable .icon{
-  width: 69px;
-  height: 69px;
-  line-height: 69px;
-  border-radius: 50%;
-  background: #fff;
-  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
-  margin: 0 auto;
-  font-size: 25px;
-  color: #3485ef;
-  position: absolute;
-  top: -34px;
-  left: 0;
-  right: 0;
-}
+
 .pricingTable .pricingTable-header{
   margin-bottom: 30px;
 }
@@ -115,4 +102,76 @@
 }
 @media only screen and (max-width: 767px){
   .pricingTable{ margin-bottom: 50px; }
+}
+
+//Faq sektion//
+h1 {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 2.5rem;
+}
+
+.faqtekst{
+ margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+.accordion {
+  width: 90%;
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+.accordion-item {
+  background-color: #fff;
+  color: #111;
+  margin: 1rem 0;
+  border-radius: 10px!important;
+  border: none!important;
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.02) !important;
+
+
+}
+.accordion-item-header {
+  padding: 0.5rem 3rem 0.5rem 1rem;
+  min-height: 3.5rem;
+  line-height: 1.25rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+.accordion-item-header::after {
+  content: "\002B";
+  font-size: 2rem;
+  position: absolute;
+  right: 1rem;
+}
+.accordion-item-header.active::after {
+  content: "\2212";
+}
+.accordion-item-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.accordion-item-body-content {
+  padding: 1rem;
+  border-top: 1px solid;
+  border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
+  line-height: 2;
+}
+
+@media screen and (min-width: 768px){
+  .faqtekst{
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+}
+@media screen and (min-width: 1024px){
+  .faqtekst{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
 }

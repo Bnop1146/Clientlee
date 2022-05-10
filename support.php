@@ -21,27 +21,7 @@
 
 <div id="main-content-section" data-magellan-target="main-content-section">
 
-
-    <?php include 'navbar.php';?>
-
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="350" viewBox="0 0 1920 350">
-        <defs>
-            <clipPath id="clip-path">
-                <path id="wave-haikei_5_" data-name="wave-haikei (5)" d="M0,220l64,29.7c64,29.6,192,89,320,87.5s256-63.9,384-82.4,256,6.9,384,51.7,256,109.2,384,152.7,256,66.1,320,77.5l64,11.3V0H0Z" fill="#5235d4"/>
-            </clipPath>
-        </defs>
-        <path id="wave-haikei_5_2" data-name="wave-haikei (5)" d="M0,220l64,29.7c64,29.6,192,89,320,87.5s256-63.9,384-82.4,256,6.9,384,51.7,256,109.2,384,152.7,256,66.1,320,77.5l64,11.3V0H0Z" fill="#5235d4"/>
-        <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path)">
-            <g id="circle-scatter-haikei_6_" data-name="circle-scatter-haikei (6)" transform="translate(6.581 -1.795)">
-                <circle id="Ellipse_18" data-name="Ellipse 18" cx="210.798" cy="210.798" r="210.798" transform="translate(173.419 173.434)" fill="#6146d8"/>
-                <circle id="Ellipse_19" data-name="Ellipse 19" cx="79.392" cy="79.392" r="79.392" transform="translate(1254.195 283.772)" fill="#6146d8"/>
-                <circle id="Ellipse_20" data-name="Ellipse 20" cx="190.209" cy="190.209" r="190.209" transform="translate(1651.001 252.345)" fill="#6146d8"/>
-                <circle id="Ellipse_21" data-name="Ellipse 21" cx="119.544" cy="119.544" r="119.544" transform="translate(-126.124 -117.749)" fill="#6146d8"/>
-                <circle id="Ellipse_22" data-name="Ellipse 22" cx="95.817" cy="95.817" r="95.817" transform="translate(1428.484 -48.205)" fill="#6146d8"/>
-                <circle id="Ellipse_23" data-name="Ellipse 23" cx="94.905" cy="94.905" r="94.905" transform="translate(967.328 30.996)" fill="#6146d8"/>
-            </g>
-        </g>
-    </svg>
+    
 
 
 
