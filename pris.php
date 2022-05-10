@@ -19,8 +19,14 @@
 
 <body>
 
-<?php include 'navbar.php';?>
 
+<div class="oversek">
+    <div class="container">
+        <h5 class="prisover text-white">Priser</h5>
+        <p class="pristekst text-white w-50">Billy er Danmarks nemmeste regnskabsprogram.
+            Og får du brug for hjælp, kan du få telefonsupport alle ugens dage.</p>
+    </div>
+</div>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1920 548">
     <path id="wave-haikei_5_" data-name="wave-haikei (5)" d="M0,220l64,29.7c64,29.6,192,89,320,87.5s256-63.9,384-82.4,256,6.9,384,51.7,256,109.2,384,152.7,256,66.1,320,77.5l64,11.3V0H0Z" fill="#5235d4"/>
@@ -68,7 +74,7 @@
             <div class="pricingTable">
                 <div class="pricingTable-header">
                     <h3 class="title">Premium</h3>
-                    <span class="price-value">$20</span>
+                    <span class="price-value ">20 kr/md.</span>
                 </div>
                 <ul class="pricing-content">
                     <li>60GB Disk Space</li>
@@ -83,9 +89,9 @@
     </div>
 </div>
 
-<h1 class="mb-5 mt-5">Ofte stillede spørgsmål</h1>
 
 <div class="accordion">
+    <h1 class="mb-5">Ofte stillede spørgsmål</h1>
     <div class="accordion-item">
         <div class="accordion-item-header">
             <p class="faqtekst">Hvilken plan passer bedst til mig</p>
