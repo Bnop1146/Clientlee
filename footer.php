@@ -36,7 +36,7 @@
 
         <div class="footerrow row p-sm-3 p-3 pt-5">
 
-            <div class="fotcol col-lg-3 col-md-5 col-sm-6 mb-md-5 mt-lg-5">
+            <div class="fotcol col-lg-3 col-md-5 col-sm-6 mb-md-5 mt-md-5 mt-lg-5">
                 <div class="footer-widget">
                     <svg xmlns="http://www.w3.org/2000/svg" width="150" height="43.717" viewBox="0 0 209.246 43.717">
                         <g id="Clientlee_Logo" data-name="Clientlee Logo" transform="translate(-383 -452.3)">
@@ -69,7 +69,7 @@
 
             </div>
 
-            <div class="fotcol col-lg-2 offset-lg-1 offset-md-2 col-md-5 col-sm-6 mt-lg-5">
+            <div class="fotcol col-lg-2 offset-lg-1 offset-md-2 col-md-5 col-sm-6  mt-md-5 mt-lg-5">
                 <div class="footer-widget">
                     <h6>Menu</h6>
                     <ul>
@@ -84,8 +84,8 @@
                 <div class="footer-widget">
                     <h6>Kontakt</h6>
                     <ul>
-                        <li><i class="social fas fa-mobile-alt"></i> +45 xx xx xx xx</li>
-                        <li><i class="social far fa-envelope"></i> Clientlee@outlook.dk</li>
+                        <li><i class="social fas fa-mobile-alt"></i> +45 11 22 33 44</li>
+                        <li><i class="social far fa-envelope"></i> kontakt@clientlee.dk</li>
                         <li><i class="social fas fa-map-marker-alt"></i>4800, Nykøbing Falster, Danmark</li>
 
 
