@@ -76,10 +76,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Pris</a>
+                    <a class="nav-link" id="nav-text" href="#">Pris</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link1 " href="#">Support</a>
+                    <a class="nav-link nav-link1" id="nav-text" href="#">Support</a>
                 </li>
 
 
