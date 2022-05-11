@@ -19,7 +19,7 @@
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+    <script src="https://kit.fontawesome.com/6b4a3d7b29.js" crossorigin="anonymous"></script>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/navbar.css" rel="stylesheet" type="text/css">
 
@@ -74,7 +74,7 @@
         </button>
 
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
+            <ul class="navbar-nav ">
                 <li class="nav-item">
                     <a class="nav-link" id="nav-text" href="pris.php">Pris</a>
                 </li>
@@ -82,12 +82,23 @@
                     <a class="nav-link nav-link1" id="nav-text" href="support.php">Support</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link2" id="nav-text" href="#">12345678</a>
+                   <a class="nav-link nav-link2 m" id="nav-text" href="#"> <i class="fa-solid fa-phone"></i>12 34 56 78</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbarNav" >
+
+            <ul class="navbar-nav d-flex justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link nav-link3 " id="nav-text" href="#"> Login</a>
+                </li>
+                <li class="nav-item btn">
+                    <button class="nav-btn nav-link4 " id="nav-text" > Opret gratis bruger</button>
                 </li>
 
-
-
             </ul>
+
         </div>
 
 </nav>
