@@ -5,6 +5,7 @@ const text = document.getElementById('tekst');
 const phone = document.getElementById('phone');
 const navLink = document.querySelector('.nav-link');
 const navLink1 = document.querySelector('.nav-link1');
+const navLink2 = document.querySelector('.nav-link2');
 
 
 window.addEventListener('scroll', function () {
@@ -16,6 +17,7 @@ window.addEventListener('scroll', function () {
 
         navLink.classList.add('text-black');
         navLink1.classList.add('text-black');
+        navLink2.classList.add('text-black');
 
 
     } else {
@@ -24,6 +26,7 @@ window.addEventListener('scroll', function () {
         nav.classList.remove('bg-light', 'shadow');
         navLink.classList.remove('text-black');
         navLink1.classList.remove('text-black');
+        navLink2.classList.remove('text-black');
         logo.classList.remove("scroll-logo");
 
     }
