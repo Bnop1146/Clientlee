@@ -1,0 +1,234 @@
+.oversek{
+  background: var(--ikonercta);
+}
+.pristekst{
+  line-height: 2;
+  font-size: 14px;
+  font-family: var(--tekst-font);
+}
+
+.prisover{
+  line-height: 2;
+  font-size: 28px;
+  font-family: var(--tekst-font);
+  font-weight: bold;
+}
+
+.overcon{
+  margin-top: 60px;
+  padding: 40px!important;
+}
+
+.svgbg{
+  margin-top: -40px;
+}
+
+.pricingTable{
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.02);
+  padding: 50px 15px;
+  text-align: center;
+  margin-top: 30px;
+  color: #292929;
+  perspective: 700px;
+  z-index: 1;
+  position: relative;
+  transition: all 0.3s ease-in-out 0s;
+  border-radius: 10px;
+}
+.pricingTable:hover{ color: #fff; }
+.pricingTable:after{
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: var(--farve1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  z-index: -1;
+  transition: all 0.3s ease-in-out 0s;
+}
+.pricingTable:hover:after{
+  opacity: 1;
+}
+
+.pricingTable .pricingTable-header{
+  margin-bottom: 30px;
+}
+.pricingTable .title{
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0 0 10px 0;
+}
+.pricingTable .price-value{
+  display: inline-block;
+  border-bottom: 5px solid #3485ef;
+  font-size: 30px;
+  font-weight: 700;
+  transition: all 0.3s ease-in-out 0s;
+}
+.pricingTable:hover .price-value{
+  border-bottom-color: #fff;
+}
+.pricingTable .pricing-content{
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+.pricingTable .pricing-content li{
+  font-size: 14px;
+  line-height: 40px;
+}
+.pricingTable .pricingTable-signup{
+  display: inline-block;
+  background: var(--ikonercta);
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  position: relative;
+  transition: all 0.25s ease-in-out 0s;
+  border: 0!important;
+  background: var(--ikonercta) !important;
+  padding: 12px 50px!important;
+  border-radius: 5px!important;
+  cursor: pointer!important;
+  margin-top: 5px!important;
+  font-family: var(--tekst-font) !important;
+}
+.pricingTable:hover .pricingTable-signup{
+  background: #fff!important;
+  color: #3485ef;
+}
+.pricingTable .pricingTable-signup:before,
+.pricingTable .pricingTable-signup:after{
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  border-top: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+  transition: all 0.25s ease-in-out 0s;
+}
+
+.pricingTable:hover .pricingTable-signup:before{
+  border-right-color: #fff;
+}
+.pricingTable:hover .pricingTable-signup:after{
+  border-left-color: #fff;
+}
+@media only screen and (max-width: 990px){
+  .pricingTable{ margin-bottom: 30px; }
+}
+@media only screen and (max-width: 767px){
+  .pricingTable{ margin-bottom: 50px; }
+}
+
+@media screen and (min-width: 768px){
+  .prisover{
+    font-size: 32px;
+  }
+  .pristekst{
+    width: 80%;
+  }
+  .overcon{
+    margin-top: 80px;
+  }
+  .svgbg{
+    margin-top: -65px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .prisover {
+    font-size: 44px;
+  }
+  .pristekst {
+    width: 50%;
+    font-size: 15px;
+  }
+  .overcon {
+    margin-top: 30px;
+    padding: 100px !important;
+  }
+  .svgbg {
+    margin-top: -120px;
+  }
+}
+
+//Faq sektion//
+h1 {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 2.5rem;
+}
+
+.faqtekst{
+ margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+.accordion {
+  width: 90%;
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+.accordion-item {
+  background-color: #fff;
+  color: #111;
+  margin: 1rem 0;
+  border-radius: 10px!important;
+  border: none!important;
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.02) !important;
+
+
+}
+.accordion-item-header {
+  padding: 0.5rem 3rem 0.5rem 1rem;
+  min-height: 3.5rem;
+  line-height: 1.25rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+}
+.accordion-item-header::after {
+  content: "\002B";
+  font-size: 2rem;
+  position: absolute;
+  right: 1rem;
+}
+.accordion-item-header.active::after {
+  content: "\2212";
+}
+.accordion-item-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.accordion-item-body-content {
+  padding: 1rem;
+  border-top: 1px solid;
+  border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
+  line-height: 2;
+}
+
+@media screen and (min-width: 768px){
+  .faqtekst{
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+}
+@media screen and (min-width: 1024px){
+  .faqtekst{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .accordion{
+    margin-top: 100px;
+  }
+}

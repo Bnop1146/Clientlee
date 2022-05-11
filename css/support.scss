@@ -1,75 +1,33 @@
+
+.oversek{
+  background: var(--ikonercta);
+}
+.pristekst{
+  line-height: 2;
+  font-size: 14px;
+  font-family: var(--tekst-font);
+}
+
+.prisover{
+  line-height: 2;
+  font-size: 28px;
+  font-family: var(--tekst-font);
+  font-weight: bold;
+}
+
+.overcon{
+  margin-top: 60px;
+  padding: 40px!important;
+}
+
+.svgbg{
+  margin-top: -40px;
+}
 .hovedtitle{
   font-family: var(--overskrift-font);
   font-size: 30px;
 }
 
-.hero-full-screen {
-  height: 85vh;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  background: url(../image/kontakthero.jpg) center center no-repeat;
-  background-size: cover;
-}
-
-.hero-full-screen .middle-content-section {
-  text-align: center;
-  color: #fefefe;
-}
-
-.hero-full-screen .top-content-section {
-  width: 100%;
-}
-
-.hero-full-screen .bottom-content-section {
-  padding: 1rem;
-}
-
-.hero-full-screen .bottom-content-section svg {
-  height: 3.75rem;
-  width: 3.75rem;
-  fill: #fefefe;
-}
-
-.hero-full-screen .top-bar {
-  background: transparent;
-}
-
-.hero-full-screen .top-bar .menu {
-  background: transparent;
-}
-
-.hero-full-screen .top-bar .menu-text {
-  color: #fefefe;
-}
-
-.hero-full-screen .top-bar .menu li {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-}
-
-.hero-full-screen .top-bar .menu a {
-  color: #fefefe;
-  font-weight: bold;
-}
-
-.kontaktsektion{
-  background: url(../image/background-desktop-venstre.png);
-  background-size: cover;
-}
 
 
 
@@ -165,6 +123,19 @@ textarea.contact-form-text{
 
 
 @media screen and (min-width: 768px){
+
+  .prisover{
+    font-size: 32px;
+  }
+  .pristekst{
+    width: 80%;
+  }
+  .overcon{
+    margin-top: 80px;
+  }
+  .svgbg{
+    margin-top: -65px;
+  }
   .hovedtitle{
     font-size: 32px;
   }
@@ -199,6 +170,22 @@ textarea.contact-form-text{
 }
 
 @media screen and (min-width: 1024px){
+
+  .prisover{
+    font-size: 44px;
+  }
+  .pristekst{
+    width: 50%;
+    font-size: 15px;
+  }
+  .overcon{
+    margin-top: 30px;
+    padding: 100px!important;
+  }
+  .svgbg{
+    margin-top: -120px;
+  }
+
   .hovedtitle{
     font-size: 34px;
   }

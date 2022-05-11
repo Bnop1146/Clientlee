@@ -9,7 +9,7 @@ const navLink2 = document.querySelector('.nav-link2');
 
 
 window.addEventListener('scroll', function () {
-    if (window.pageYOffset > 250) {
+    if (window.pageYOffset > 30) {
         logo.setAttribute("fill", "#0C0623");
         burger.setAttribute("fill", "black");
         nav.classList.add('bg-light', 'shadow');
