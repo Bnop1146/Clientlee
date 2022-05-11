@@ -80,7 +80,7 @@
                     <p class="infoover">Information</p>
                     <div class="line"></div>
                     <p class="infotekst2 mt-3">Adresse: 4800, Nykøbing Falster, Danmark</p>
-                    <p class="infotekst2">CVR: 11223344</p>
+                    <p class="infotekst2">CVR: </p>
                 </div>
 
                 <div class="kontaktinfo mt-5">

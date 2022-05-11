@@ -1,0 +1,62 @@
+
+.forcta{
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ikonercta) ;
+  text-transform: uppercase;
+  position: relative;
+  transition: all 0.25s ease-in-out 0s;
+  border: 0!important;
+  background: white !important;
+  padding: 12px 50px!important;
+  border-radius: 5px!important;
+  cursor: pointer!important;
+  margin-top: 5px!important;
+  font-family: var(--tekst-font) !important;
+}
+.fortekst{
+  line-height: 2;
+  font-size: 14px;
+}
+.forover{
+  font-size: 32px;
+  width: 70%;
+}
+.grid1{
+  margin-top: 30px!important;
+  margin-bottom: 40px!important;
+}
+
+.grid2{
+  display: none!important;
+}
+
+.forrow{
+  background: var(--ikonercta);
+  padding: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .forrow{
+    padding: 15px;
+  }
+  .fortekst{
+    width: 80%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .forrow{
+    padding: 0;
+  }
+  .fortekst{
+    width: 80%;
+  }
+  .grid2{
+    display: block!important;
+  }
+  .forover{
+    font-size: 36px;
+    width: 60%;
+  }
+}
