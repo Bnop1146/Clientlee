@@ -33,7 +33,7 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-3">
     <div class="container">
 
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="Forside.php">
 
 
 
@@ -47,10 +47,6 @@
                     </g>
                 </g>
             </svg>
-
-
-
-
 
         </a>
 
