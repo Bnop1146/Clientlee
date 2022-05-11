@@ -76,10 +76,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ">
                 <li class="nav-item">
-                    <a class="nav-link" id="nav-text" href="#">Pris</a>
+                    <a class="nav-link" id="nav-text" href="pris.php">Pris</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link1" id="nav-text" href="#">Support</a>
+                    <a class="nav-link nav-link1" id="nav-text" href="support.php">Support</a>
                 </li>
                 <li class="nav-item">
                    <a class="nav-link nav-link2 m" id="nav-text" href="#"> <i class="fa-solid fa-phone"></i>12 34 56 78</a>

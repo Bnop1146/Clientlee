@@ -79,19 +79,20 @@
                 <div class="kontaktinfo">
                     <p class="infoover">Information</p>
                     <div class="line"></div>
-                    <p class="infotekst2 mt-3">Adresse: 4990, Sakskøbing, Danmark</p>
-                    <p class="infotekst2">CVR: 40748016</p>
+                    <p class="infotekst2 mt-3">Adresse: 4800, Nykøbing Falster, Danmark</p>
+                    <p class="infotekst2">CVR: 11223344</p>
                 </div>
 
                 <div class="kontaktinfo mt-5">
                     <p class="infoover">E-mail</p>
                     <div class="line"></div>
-                    <p class="infotekst2 mt-3">Bengtson-multiservice@outlook.dk</p>
+                    <p class="infotekst2 mt-3">kontakt@clientlee.dk</p>
                 </div>
 
                 <div class="kontaktinfo mt-5">
                     <p class="infoover">Telefon tid</p>
                     <div class="line"></div>
+                    <p class="infotekst2 mt-3">+45 11 22 33 44</p>
                     <p class="infotekst2 mt-3">Mandag - Søndag: 07.00 - 20.00</p>
                 </div>
 
