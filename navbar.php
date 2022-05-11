@@ -81,6 +81,9 @@
                 <li class="nav-item">
                     <a class="nav-link nav-link1" id="nav-text" href="#">Support</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link2" id="nav-text" href="#">12345678</a>
+                </li>
 
 
 
