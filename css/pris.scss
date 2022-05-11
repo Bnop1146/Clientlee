@@ -141,6 +141,9 @@
   .svgbg{
     margin-top: -135px;
   }
+  .pricingTable .pricingTable-signup{
+    padding: 12px 20px!important
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -217,12 +220,16 @@ h1 {
   border-top: 1px solid;
   border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
   line-height: 2;
+  font-size: 14px;
 }
 
 @media screen and (min-width: 768px){
   .faqtekst{
     margin-top: 35px;
     margin-bottom: 35px;
+  }
+  .accordion-item-body-content{
+    width: 90%;
   }
 }
 @media screen and (min-width: 1024px){
@@ -232,5 +239,8 @@ h1 {
   }
   .accordion{
     margin-top: 100px;
+  }
+  .accordion-item-body-content{
+    width: 80%;
   }
 }
