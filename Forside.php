@@ -77,8 +77,8 @@
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
-            <p class="infoover">Overskrift</p>
-            <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <p class="infoover">Vi sidder klar</p>
+            <p class="infotekst">Brug for en hjælpende hånd? Vi sidder klar hver dag kl 07:00 – 20:00 med <span class="gratis">gratis</span> support alle ugens dage. </p>
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
