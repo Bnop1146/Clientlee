@@ -33,7 +33,7 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-3">
     <div class="container">
 
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="Forside.php">
 
 
 
@@ -47,10 +47,6 @@
                     </g>
                 </g>
             </svg>
-
-
-
-
 
         </a>
 
@@ -82,7 +78,7 @@
                     <a class="nav-link nav-link1" id="nav-text" href="support.php">Support</a>
                 </li>
                 <li class="nav-item">
-                   <a class="nav-link nav-link2 m" id="nav-text" href="#"> <i class="fa-solid fa-phone"></i>12 34 56 78</a>
+                   <a class="nav-link nav-link2 " id="nav-text" href="#"> <i class="fa-solid fa-phone me-2"></i>12 34 56 78</a>
                 </li>
             </ul>
         </div>

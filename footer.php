@@ -73,8 +73,8 @@
                 <div class="footer-widget">
                     <h6>Menu</h6>
                     <ul>
-                        <li><a href="#">Pris</a></li>
-                        <li><a href="#">Support</a></li>
+                        <li><a href="pris.php">Pris</a></li>
+                        <li><a href="support.php">Support</a></li>
 
                     </ul>
                 </div>
@@ -125,8 +125,6 @@
     </div>
 
 </footer>
-
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
