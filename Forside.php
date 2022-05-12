@@ -4,6 +4,8 @@
     <meta charset="utf-8">
 
     <title>Sigende titel</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -31,6 +33,8 @@
     </div>
 
 </div>
+
+
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svgbg" width="100%" height="100%" viewBox="0 0 1920 667.544">
     <defs>
@@ -121,7 +125,7 @@
 
         <div class="p-4 col-sm-12 col-md-6 col-lg-6 mt-lg-5 offset-lg-1">
 
-            <p class="forover2">Få styr på moms & skat</p>
+            <p class="forover2"></p>
             <p class="fortekst1">Få et fuldt overblik over dit regnskab og din økonomi.
                 Vi giver dig alt, du skal bruge, når du skal indberette til SKAT med få klik direkte fra Billy.
             </p>

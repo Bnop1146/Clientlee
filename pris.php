@@ -4,6 +4,8 @@
     <meta charset="utf-8">
 
     <title>Sigende titel</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -24,7 +26,8 @@
 <div class="oversek">
     <div class="overcon container">
         <p class="prisover text-white">Pris</p>
-        <p class="pristekst text-white">Brug venligst kontaktformularen herunder for at kontakte os med diverse spørgsmål. Vi vender tilbage med svar hurtigst muligt. Du er også velkommen til at ringe eller sende en sms.
+        <p class="pristekst text-white">
+            Hos Clientlee tror vi nemlig ikke på
         </p>
 
     </div>
@@ -147,7 +150,8 @@
     </div>
     <div class="accordion-item">
         <div class="accordion-item-header">
-            <p class="faqtekst">What is HTML?</p>        </div>
+            <p class="faqtekst">What is HTML?</p>
+            </div>
         <div class="accordion-item-body">
             <div class="accordion-item-body-content">
                 Det kommer selvfølgelig an på, hvad du laver, og hvor etableret din virksomhed er.
