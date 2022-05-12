@@ -106,7 +106,7 @@
             </p>
             <p class="fortekst1">Hvis du også hellere vil bruge tid på din virksomheds kerneværdier frem for uoverskueligt papirarbejde, så er Clientlee skræddersyet til dig.
             </p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Opret kunder på under to minutter </p>
+            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Opret kunder på få sekunder </p>
             <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Bevar overblikket </p>
             <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Slut med store mængder papir – slip for at miste vigtige informationer
 
