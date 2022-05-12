@@ -182,7 +182,7 @@
                 Derfor tilbyder vi altid gratis kundeservice, hvis du skulle løbe ind i problemer eller har brug for gode tips og råd..</p>
 
             <p class="fortekst text-white"> Vores support har åben fra kl. 07-20 alle ugens dage.</p>
-                <a href="#" class="forcta text-decoration-none">Gå til support</a>
+                <a href="support.php" class="forcta text-decoration-none">Gå til support</a>
             </div>
 
         <div class="grid2 col-lg-3  p-0  overflow-hidden">
