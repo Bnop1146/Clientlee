@@ -72,7 +72,7 @@
 <div class="container  py-5" id="featured-3">
     <div class="row g-4 py-5 p-5 row-cols-lg-3">
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
-            <p class="infoover">Intuitivt administreringsprogram til selvstændige </p>
+            <p class="infoover">Intuitivt administreringsprogram</p>
             <p class="infotekst">Med specialdesignede administreringsskabeloner kan du nemt og hurtigt oprette nye kunder og gemme vigtige informationer. </p>
         </div>
 
