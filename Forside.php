@@ -23,12 +23,9 @@
 
 <div class="oversek">
     <div class="overcon container">
-        <p class="prisover text-white">Forside</p>
+        <p class="prisover text-white">Velkommen til Clientlee </p>
         <p class="pristekst text-white">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Opret din bruger nu og prøv Clientlee gratis i 14 dage – Administrer dine kunder på en enkelt og effektiv måde, så du får mere tid til dit håndværk.
         </p>
 
     </div>
@@ -100,15 +97,18 @@
 
         <div class="p-4 col-sm-12 col-md-6 col-lg-6 mt-lg-5 offset-lg-1">
 
-            <p class="forover2">Få styr på moms & skat</p>
-            <p class="fortekst1">Få et fuldt overblik over dit regnskab og din økonomi.
-                Vi giver dig alt, du skal bruge, når du skal indberette til SKAT med få klik direkte fra Billy.
+            <p class="forover2">
+                Clientlee er dit værktøj til at bevare overblikket over dine kunder
             </p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Indberet dine momstal direkte til SKAT</p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Bliv hjulpet godt i mål med dit årsregnskab</p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Forbind din bank og gør regnskabet nemt</p>
+            <p class="fortekst1">Hvis du også hellere vil bruge tid på din virksomheds kerneværdier frem for uoverskueligt papirarbejde, så er Clientlee skræddersyet til dig.
+            </p>
+            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Opret kunder på under to minutter </p>
+            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Bevar overblikket </p>
+            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Slut med store mængder papir – slip for at miste vigtige informationer
 
-            <a class="forcta2 btn mt-4" href="#" role="button">Læs mere</a>
+            </p>
+
+            <a class="forcta2 btn mt-4" href="#" role="button">Opret bruger</a>
 
         </div>
     </div>
