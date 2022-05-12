@@ -72,7 +72,7 @@
 <div class="container  py-5" id="featured-3">
     <div class="row g-4 py-5 p-5 row-cols-lg-3">
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
-            <p class="infoover">Intuitivt administreringsprogram</p>
+            <p class="infoover">Alle kan være med</p>
             <p class="infotekst">Med specialdesignede administreringsskabeloner kan du nemt og hurtigt oprette nye kunder og gemme vigtige informationer. </p>
         </div>
 
@@ -82,8 +82,8 @@
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
-            <p class="infoover">Overskrift</p>
-            <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <p class="infoover">Ingen overraskelser</p>
+            <p class="infotekst">Hos Clientlee er der ingen pludselige røde tal. Du ved hvad du betaler for og prisen tilpasses dit behov.</p>
         </div>
 
     </div>
