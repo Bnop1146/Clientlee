@@ -69,23 +69,18 @@
 
 
 <div class="container  py-5" id="featured-3">
-    <div class="row g-4 py-5  row-cols-lg-3">
-        <div class="infosek feature col-sm-12 col-md-6 col-lg-3">
+    <div class="row g-4 py-5 p-5 row-cols-lg-3">
+        <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Overskrift</p>
             <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
         </div>
 
-        <div class="infosek feature col-sm-12 col-md-6 col-lg-3">
+        <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Overskrift</p>
             <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
         </div>
 
-        <div class="infosek feature col-sm-12 col-md-6 col-lg-3">
-            <p class="infoover">Overskrift</p>
-            <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-        </div>
-
-        <div class="infosek feature col-sm-12 col-md-6 col-lg-3">
+        <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Overskrift</p>
             <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
         </div>

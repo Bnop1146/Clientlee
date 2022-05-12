@@ -183,6 +183,5 @@
     <?php include 'footer.php';?>
 
     <script src="js/faq.js"></script>
-    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

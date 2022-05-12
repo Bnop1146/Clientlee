@@ -116,7 +116,6 @@
   font-size: 15px;
   line-height: 2;
   font-weight: 300;
-  width: 70%;
 }
 
 .infosek{
@@ -128,9 +127,6 @@
     padding: 15px;
   }
   .fortekst{
-    width: 80%;
-  }
-  .infotekst{
     width: 80%;
   }
   .prisover{
@@ -187,6 +183,9 @@
   }
   .svgbg {
     margin-top: -250px;
+  }
+  .infotekst{
+    width: 70%;
   }
 }
 

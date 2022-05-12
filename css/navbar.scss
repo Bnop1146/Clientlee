@@ -122,6 +122,10 @@ button:hover {
   color: white;
 }
 
+.navbar-dark .navbar-toggler{
+  background: transparent;
+}
+
 @media screen and (min-width: 768px){
   .header-cta-info{
     display: flex;
