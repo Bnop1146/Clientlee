@@ -72,8 +72,8 @@
 <div class="container  py-5" id="featured-3">
     <div class="row g-4 py-5 p-5 row-cols-lg-3">
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
-            <p class="infoover">Overskrift</p>
-            <p class="infotekst">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <p class="infoover">Intuitivt administreringsprogram til selvstændige </p>
+            <p class="infotekst">Med specialdesignede administreringsskabeloner kan du nemt og hurtigt oprette nye kunder og gemme vigtige informationer. </p>
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
@@ -177,11 +177,11 @@
     <div class="container my-5">
      <div class="forrow row  align-items-center rounded-3  shadow-lg">
         <div class="grid1 offset-lg-1 col-lg-6 p-2 pt-lg-3">
-            <h5 class="forover text-white fw-bold">Gratis support hele ugen</h5>
-            <p class="fortekst text-white">Få support hele ugen i Billy på både chat, e-mail og telefon.
-                Du kan også finde hjælp til dit regnskab i alle vores hjælpeartikler og videoer.</p>
+            <h5 class="forover text-white fw-bold">Altid gratis support</h5>
+            <p class="fortekst text-white">Hos Clientlee går vi meget op i at gøre jeres hverdag mere overskuelig.
+                Derfor tilbyder vi altid gratis kundeservice, hvis i skulle løbe ind i problemer eller har brug for gode tips og råd..</p>
 
-            <p class="fortekst text-white"> Vores support har åben fra kl. 8-23 alle ugens dage.</p>
+            <p class="fortekst text-white"> Vores support har åben fra kl. 07-20 alle ugens dage.</p>
                 <a href="#" class="forcta text-decoration-none">Gå til support</a>
             </div>
 
