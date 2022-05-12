@@ -95,7 +95,7 @@
 <div class="container">
     <div class="row">
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/hb.jpeg" class="img-fluid ms-5" width="376" height="376" alt="">
+            <img src="img/oliver.png" class="img-fluid ms-5" alt="">
 
         </div>
 
@@ -138,7 +138,7 @@
         </div>
 
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/testbillede.jpg" class="img-fluid" alt="">
+            <img src="img/oliver.png" class="img-fluid" alt="">
 
         </div>
 
@@ -150,7 +150,7 @@
 <div class="container">
     <div class="row">
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/testbillede.jpg" class="img-fluid" alt="">
+            <img src="img/oliver.png" class="img-fluid" alt="">
 
         </div>
 
@@ -186,7 +186,7 @@
             </div>
 
         <div class="grid2 col-lg-3  p-0  overflow-hidden">
-            <img class="img-fluid" src="img/5.png" alt="">
+            <img class="img-fluid" src="img/ømer.png" alt="">
         </div>
 
 
