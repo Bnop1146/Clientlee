@@ -178,7 +178,7 @@
      <div class="forrow row  align-items-center rounded-3  shadow-lg">
         <div class="grid1 offset-lg-1 col-lg-6 p-2 pt-lg-3">
             <h5 class="forover text-white fw-bold">Altid gratis support</h5>
-            <p class="fortekst text-white">Hos Clientlee går vi meget op i at gøre jeres hverdag mere overskuelig.
+            <p class="fortekst text-white">Hos Clientlee går vi meget op i at gøre din hverdag mere overskuelig.
                 Derfor tilbyder vi altid gratis kundeservice, hvis i skulle løbe ind i problemer eller har brug for gode tips og råd..</p>
 
             <p class="fortekst text-white"> Vores support har åben fra kl. 07-20 alle ugens dage.</p>
