@@ -4,6 +4,7 @@
     <meta charset="utf-8">
 
     <title>Sigende titel</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
