@@ -91,7 +91,7 @@
 <div class="container">
     <div class="row">
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/testbillede.jpg" class="img-fluid" alt="">
+            <img src="img/hb.jpeg" class="img-fluid ms-5" width="376" height="376" alt="">
 
         </div>
 
