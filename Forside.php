@@ -66,27 +66,25 @@
     </g>
 </svg>
 
-<i class="fa-solid fa-user-headset"></i>
-
 
 
 <div class="container  py-5" id="featured-3">
-    <div class="row g-4 py-5 p-5 row-cols-lg-3">
+    <div class="inforow row g-4 py-5 row-cols-lg-3">
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Alle kan være med</p>
-            <i class="fa-solid fa-user-headset"></i>
+            <i class="infoikon fa-solid fa-users-gear m3-4 mb-3"></i>
             <p class="infotekst">Med specialdesignede administreringsskabeloner kan du nemt og hurtigt oprette nye kunder og gemme vigtige informationer. </p>
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Vi sidder klar</p>
-            <i class="fa-solid fa-user-headset"></i>
+            <i class="infoikon fa-solid fa-headset m3-4 mb-3"></i>
             <p class="infotekst">Brug for en hjælpende hånd? Vi sidder klar hver dag kl 07:00 – 20:00 med <span class="gratis">gratis</span> support alle ugens dage. </p>
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Ingen overraskelser</p>
-            <i class="fa-solid fa-user-headset"></i>
+            <i class="infoikon fa-solid fa-money-check-dollar m3-4 mb-3"></i>
             <p class="infotekst">Hos Clientlee er der ingen pludselige røde tal. Du ved hvad du betaler for og prisen tilpasses dit behov.</p>
         </div>
 

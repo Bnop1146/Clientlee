@@ -15,6 +15,15 @@
   font-weight: bold;
 }
 
+.inforow{
+  padding: 40px!important;
+}
+
+.infoikon{
+  font-size: 40px!important;
+  color: var(--farve2)!important;
+}
+
 .overcon{
   margin-top: 60px;
   padding: 40px!important;
@@ -141,6 +150,12 @@
   .svgbg{
     margin-top: -135px;
   }
+  .inforow{
+    padding: 0!important;
+  }
+  .infoikon{
+    font-size: 45px!important;
+  }
 }
 @media screen and (min-width: 1024px) {
   .forrow{
@@ -186,6 +201,12 @@
   }
   .infotekst{
     width: 70%;
+  }
+  .inforow{
+    padding: 50px!important;
+  }
+  .infoikon{
+    font-size: 50px;
   }
 }
 
