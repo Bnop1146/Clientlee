@@ -66,7 +66,7 @@
     </g>
 </svg>
 
-<i class="fa-solid fa-user-headset"></i>
+<i class="fa-solid fa-headset"></i>
 
 
 
