@@ -11,7 +11,7 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+    <script src="https://kit.fontawesome.com/a9e27aeadf.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/forside.css" rel="stylesheet" type="text/css">
@@ -66,6 +66,7 @@
     </g>
 </svg>
 
+<i class="fa-solid fa-user-headset"></i>
 
 
 
@@ -73,16 +74,19 @@
     <div class="row g-4 py-5 p-5 row-cols-lg-3">
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Alle kan være med</p>
+            <i class="fa-solid fa-user-headset"></i>
             <p class="infotekst">Med specialdesignede administreringsskabeloner kan du nemt og hurtigt oprette nye kunder og gemme vigtige informationer. </p>
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Vi sidder klar</p>
+            <i class="fa-solid fa-user-headset"></i>
             <p class="infotekst">Brug for en hjælpende hånd? Vi sidder klar hver dag kl 07:00 – 20:00 med <span class="gratis">gratis</span> support alle ugens dage. </p>
         </div>
 
         <div class="infosek feature col-sm-12 col-md-4 col-lg-4">
             <p class="infoover">Ingen overraskelser</p>
+            <i class="fa-solid fa-user-headset"></i>
             <p class="infotekst">Hos Clientlee er der ingen pludselige røde tal. Du ved hvad du betaler for og prisen tilpasses dit behov.</p>
         </div>
 
