@@ -1,3 +1,9 @@
+.skjulsek{
+  display: none;
+}
+.billede3{
+  display: none;
+}
 .oversek{
   background: var(--ikonercta);
 }
@@ -132,6 +138,12 @@
 }
 
 @media screen and (min-width: 768px) {
+  .billede3{
+    display: none;
+  }
+  .skjulsek{
+    display: none;
+  }
   .forrow{
     padding: 15px;
   }
@@ -158,6 +170,12 @@
   }
 }
 @media screen and (min-width: 1024px) {
+  .billede3{
+    display: block;
+  }
+  .skjulsek{
+    display: block;
+  }
   .forrow{
     padding: 0;
   }

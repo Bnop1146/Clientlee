@@ -28,7 +28,7 @@
         <p class="prisover text-white">Support</p>
         <p class="pristekst text-white">
             Hos Clientlee går vi meget op i at gøre din hverdag mere overskuelig.
-            Derfor tilbyder vi altid gratis kundeservice, hvis du skulle løbe ind i problemer eller har brug for gode tips og råd.
+            Derfor tilbyder vi altid gratis kundeservice, hvis du skulle løbe ind i problemer eller hvid du har brug for gode tips og råd.
 
 
 

@@ -31,7 +31,7 @@
 <body>
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-3">
-    <div class="container">
+    <div class="container align-items-baseline">
 
         <a class="navbar-brand" href="Forside.php">
 

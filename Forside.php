@@ -67,6 +67,21 @@
 </svg>
 
 
+<div class="mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="skjulsek col-sm-12 col-md-6   col-lg-6">
+
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6" style="margin-top: -450px;">
+                <img src="img/macbook.png" class="billede3 img-fluid" alt="">
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
 
 <div class="container  py-5" id="featured-3">
     <div class="inforow row g-4 py-5 row-cols-lg-3">
