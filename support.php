@@ -26,7 +26,12 @@
 <div class="oversek">
     <div class="overcon container">
         <p class="prisover text-white">Support</p>
-        <p class="pristekst text-white">Brug venligst kontaktformularen herunder for at kontakte os med diverse spørgsmål. Vi vender tilbage med svar hurtigst muligt. Du er også velkommen til at ringe eller sende en sms.
+        <p class="pristekst text-white">
+            Hos Clientlee går vi meget op i at gøre din hverdag mere overskuelig.
+            Derfor tilbyder vi altid gratis kundeservice, hvis du skulle løbe ind i problemer eller har brug for gode tips og råd.
+
+
+
         </p>
 
     </div>

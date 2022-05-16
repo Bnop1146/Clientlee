@@ -97,7 +97,7 @@
 <div class="container">
     <div class="row">
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/oliver.png" class="img-fluid ms-5" alt="">
+            <img src="img/1.png" class="img-fluid" alt="">
 
         </div>
 
@@ -152,7 +152,7 @@
 <div class="container">
     <div class="row">
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/oliver.png" class="img-fluid" alt="">
+            <img src="img/2.png" class="img-fluid" alt="">
 
         </div>
 

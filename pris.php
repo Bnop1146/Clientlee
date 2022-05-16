@@ -27,7 +27,7 @@
     <div class="overcon container">
         <p class="prisover text-white">Pris</p>
         <p class="pristekst text-white">
-            Hos Clientlee tror vi nemlig ikke på
+            Hos Clientlee er der ingen pludselige røde tal. Du ved hvad du betaler for og prisen tilpasses dit behov.
         </p>
 
     </div>
