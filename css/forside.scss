@@ -1,3 +1,9 @@
+.forover{
+  font-family: var(--overskrift-font);
+}
+.fortekst{
+  font-family: var(--tekst-font);
+}
 .skjulsek{
   display: none;
 }
@@ -17,7 +23,7 @@
 .prisover{
   line-height: 2;
   font-size: 28px;
-  font-family: var(--tekst-font);
+  font-family: var(--overskrift-font);
   font-weight: bold;
 }
 
@@ -84,7 +90,7 @@
 .forover2{
   font-size: 24px;
   font-weight: bold;
-  font-family: var(--tekst-font);
+  font-family: var(--overskrift-font);
 
 }
 
@@ -120,7 +126,7 @@
 }
 
 .infoover{
-  font-family: var(--tekst-font) !important;
+  font-family: var(--overskrift-font) !important;
   font-size: 20px;
   font-weight: bold;
   text-align: center;

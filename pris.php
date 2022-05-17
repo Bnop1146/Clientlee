@@ -125,59 +125,38 @@
 
 <div class="accordion">
     <h1 class="mb-5">Ofte stillede spørgsmål</h1>
+
     <div class="accordion-item">
         <div class="accordion-item-header">
-            <p class="faqtekst">Hvilken plan passer bedst til mig</p>
+            <p class="faqtekst">Hvad er Clientlee?</p>
+            </div>
+        <div class="accordion-item-body">
+            <div class="accordion-item-body-content">
+                Clientlee vil gøre det nemmere for mindre erhvervsvirksomheder at holde styr på deres kunder,
+                og mindske det fysiske papirarbejde, de ellers ville akkumulere.
+            </div>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <div class="accordion-item-header">
+            <p class="faqtekst">Hvilken abonnement passer bedst til mig?</p>
         </div>
         <div class="accordion-item-body">
             <div class="accordion-item-body-content mt-2">
-                Det kommer selvfølgelig an på, hvad du laver, og hvor etableret din virksomhed er.
-                Vi anbefaler Pro til nystartede virksomheder, som ønsker at bruge mindst mulig tid på regnskab og bogføring.
-                Her har du adgang til alle funktioner, og kan være indtil din virksomhed har vokset sig stor.
+                Det kommer an på hvor stor din virksomhed er. Vi anbefaler basic abonnementet til nyopstartet virksomheder,
+                da de har funktioner der egner sig til nyopstartet virksomheder.
             </div>
         </div>
     </div>
+
     <div class="accordion-item">
         <div class="accordion-item-header">
-            <p class="faqtekst">What is HTML?</p>
+            <p class="faqtekst">Er der binding, når jeg opretter mig?</p>
         </div>
         <div class="accordion-item-body">
             <div class="accordion-item-body-content">
-                Det kommer selvfølgelig an på, hvad du laver, og hvor etableret din virksomhed er.
-                Vi anbefaler Pro til nystartede virksomheder, som ønsker at bruge mindst mulig tid på regnskab og bogføring.
-                Her har du adgang til alle funktioner, og kan være indtil din virksomhed har vokset sig stor.            </div>
-        </div>
-    </div>
-    <div class="accordion-item">
-        <div class="accordion-item-header">
-            <p class="faqtekst">What is HTML?</p>
-            </div>
-        <div class="accordion-item-body">
-            <div class="accordion-item-body-content">
-                Det kommer selvfølgelig an på, hvad du laver, og hvor etableret din virksomhed er.
-                Vi anbefaler Pro til nystartede virksomheder, som ønsker at bruge mindst mulig tid på regnskab og bogføring.
-                Her har du adgang til alle funktioner, og kan være indtil din virksomhed har vokset sig stor.
-            </div>
-        </div>
-    </div>
-    <div class="accordion-item">
-        <div class="accordion-item-header">
-            <p class="faqtekst">What is HTML?</p>
-        </div>
-        <div class="accordion-item-body">
-            <div class="accordion-item-body-content">
-                Det kommer selvfølgelig an på, hvad du laver, og hvor etableret din virksomhed er.
-                Vi anbefaler Pro til nystartede virksomheder, som ønsker at bruge mindst mulig tid på regnskab og bogføring.
-                Her har du adgang til alle funktioner, og kan være indtil din virksomhed har vokset sig stor.            </div>
-        </div>
-    </div>
-    <div class="accordion-item">
-        <div class="accordion-item-header">
-            <p class="faqtekst">What is HTML?</p>
-        </div>
-        <div class="accordion-item-body">
-            <div class="accordion-item-body-content">
-                CORS, aka Cross-Origin Resource Sharing, is a mechanism that enables many resources (e.g. images, stylesheets, scripts, fonts) on a web page to be requested from another domain outside the domain from which the resource originated.
+                Nej, der er ikke binding, når du opretter dig, og   det kræver heller ikke kreditkort at oprette sig.
             </div>
         </div>
     </div>
