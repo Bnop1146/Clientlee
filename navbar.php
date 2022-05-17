@@ -77,20 +77,20 @@
                 <li class="nav-item">
                     <a class="nav-link nav-link1" id="nav-text" href="support.php">Support</a>
                 </li>
-                <li class="nav-item">
-                   <a class="nav-link nav-link2 " id="nav-text" href="#"> <i class="fa-solid fa-phone me-2"></i>12 34 56 78</a>
+                <li class="nav-item number-flex">
+                   <a class="nav-link nav-link2 " id="nav-text" href="#"> <i class="fa-solid fa-phone me-2"></i>12345678</a>
                 </li>
             </ul>
         </div>
 
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
 
-            <ul class="navbar-nav d-flex ">
+            <ul class="navbar-nav login-flex">
                 <li class="nav-item">
                     <a class="nav-link nav-link3 " id="nav-text" href="#"> Login</a>
                 </li>
                 <li class="nav-item btn">
-                    <button class="nav-btn nav-link4 " id="nav-text" > Opret gratis bruger</button>
+                    <button class="nav-btn nav-link4  " id="nav-text" > Opret gratis bruger</button>
                 </li>
 
             </ul>
