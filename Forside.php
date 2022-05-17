@@ -141,7 +141,7 @@
 
         <div class="p-4 col-sm-12 col-md-6 col-lg-6 mt-lg-5 offset-lg-1">
 
-            <p class="forover2"></p>
+            <p class="forover2">Overskrift</p>
             <p class="fortekst1">Få et fuldt overblik over dit regnskab og din økonomi.
                 Vi giver dig alt, du skal bruge, når du skal indberette til SKAT med få klik direkte fra Billy.
             </p>
