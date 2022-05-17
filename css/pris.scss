@@ -85,7 +85,6 @@
 }
 .pricingTable .pricingTable-signup{
   display: inline-block;
-  background: var(--ikonercta);
   font-size: 14px;
   font-weight: 600;
   color: #fff;
@@ -102,7 +101,7 @@
 }
 .pricingTable:hover .pricingTable-signup{
   background: #fff!important;
-  color: #3485ef;
+  color: var(--ikonercta);
 }
 .pricingTable .pricingTable-signup:before,
 .pricingTable .pricingTable-signup:after{

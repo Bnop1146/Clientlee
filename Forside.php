@@ -29,7 +29,6 @@
         <p class="pristekst text-white">
             Opret din bruger nu og prøv Clientlee gratis i 14 dage – Administrer dine kunder på en enkelt og effektiv måde, så du får mere tid til dit håndværk.
         </p>
-
     </div>
 
 </div>
