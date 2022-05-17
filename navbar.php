@@ -83,9 +83,9 @@
             </ul>
         </div>
 
-        <div class="collapse navbar-collapse" id="navbarNav" >
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
 
-            <ul class="navbar-nav d-flex justify-content-end">
+            <ul class="navbar-nav d-flex ">
                 <li class="nav-item">
                     <a class="nav-link nav-link3 " id="nav-text" href="#"> Login</a>
                 </li>
