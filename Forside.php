@@ -136,39 +136,10 @@
 
 
 
-<div class="container">
-    <div class="row">
-
-        <div class="p-4 col-sm-12 col-md-6 col-lg-6 mt-lg-5 offset-lg-1">
-
-            <p class="forover2">Overskrift</p>
-            <p class="fortekst1">Få et fuldt overblik over dit regnskab og din økonomi.
-                Vi giver dig alt, du skal bruge, når du skal indberette til SKAT med få klik direkte fra Billy.
-            </p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Indberet dine momstal direkte til SKAT</p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Bliv hjulpet godt i mål med dit årsregnskab</p>
-            <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Forbind din bank og gør regnskabet nemt</p>
-
-            <a class="forcta2 btn mt-4" href="#" role="button">Læs mere</a>
-
-        </div>
-
-        <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/oliver.png" class="img-fluid" alt="">
-
-        </div>
-
-    </div>
-</div>
-
 
 
 <div class="container">
     <div class="row">
-        <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/2.png" class="img-fluid" alt="">
-
-        </div>
 
 
         <div class="p-4 col-sm-12 col-md-6 col-lg-6 mt-lg-5 offset-lg-1">
@@ -181,9 +152,13 @@
             <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Bliv hjulpet godt i mål med dit årsregnskab</p>
             <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Forbind din bank og gør regnskabet nemt</p>
 
-            <a class="forcta2 btn mt-4" href="#" role="button">Læs mere</a>
 
         </div>
+        <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
+            <img src="img/2.png" class="img-fluid" alt="">
+
+        </div>
+
     </div>
 </div>
 
