@@ -124,7 +124,7 @@
 
 
 <div class="accordion">
-    <h1 class="mb-5">Ofte stillede spørgsmål</h1>
+    <h1 class="faqover mb-5">Ofte stillede spørgsmål</h1>
 
     <div class="accordion-item">
         <div class="accordion-item-header">

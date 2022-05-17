@@ -168,10 +168,17 @@ h1 {
   margin: 2rem 0;
   font-size: 2.5rem;
 }
+.faqover{
+  font-family: var(--overskrift-font);
+  font-weight: bold;
+
+}
 
 .faqtekst{
  margin-top: 30px;
   margin-bottom: 30px;
+  font-family: var(--overskrift-font);
+  font-weight: bold;
 }
 
 
@@ -220,6 +227,7 @@ h1 {
   border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
   line-height: 2;
   font-size: 14px;
+  font-family: var(--overskrift-font);
 }
 
 @media screen and (min-width: 768px){

@@ -130,21 +130,21 @@
 
 
                     <form class="contact-form" action="#" method="post">
-                    <span>* Navn
+                    <span class="kontakt">* Navn
                     <input type="text" class="contact-form-text mb-4" aria-label="" name="name" id="name">
                     </span>
 
-                        <span>* E-mail
+                        <span class="kontakt">* E-mail
                     <input type="email" class="contact-form-text mb-4"  aria-label="" name="email" id="email">
                     </span>
 
-                        <span>* Telefon nr
+                        <span class="kontakt">* Telefon nr
                     <input type="text" class="contact-form-text mb-4"  aria-label="" name="phone">
                     </span>
 
 
 
-                        <span>* Besked
+                        <span class="kontakt">* Besked
                     <textarea name="message" class="contact-form-text mb-4"  aria-label=""></textarea>
                     </span>
 
