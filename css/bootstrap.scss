@@ -4,6 +4,15 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
+@font-face {
+  font-family: 'NexaBlack';
+  src: url("../Fonts/NexaBlack.otf");
+}
+
+@font-face {
+  font-family: 'NexaRegular';
+  src: url("../Fonts/NexaRegular.otf");
+}
 
 :root {
 
@@ -13,8 +22,8 @@
   --farve1: #6146D8
 }
 :root{
-  --overskrift-font: 'Red Hat Display',serif;
-  --tekst-font: 'Poppins',serif;
+  --overskrift-font: 'NexaBlack';
+  --tekst-font: 'NexaRegular';
 
 }
 
