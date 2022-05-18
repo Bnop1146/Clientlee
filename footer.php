@@ -61,9 +61,8 @@
 
                 </div>
                 <p class="mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
+                    Administrer dine kunder på en enkelt og effektiv måde, så du får mere tid til dit håndværk.
+
                 </p>
 
 
