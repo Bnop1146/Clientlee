@@ -155,7 +155,7 @@
         </div>
 
         <div class="mt-md-5 mt-lg-0 col-sm-12 col-md-6 col-lg-5">
-            <img src="img/oliver.png" class="img-fluid" alt="">
+            <img src="img/Oliver-pege.png" class="img-fluid" alt="">
 
         </div>
 
