@@ -70,55 +70,39 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-6 col-sm-12">
             <div class="pricingTable">
                 <div class="pricingTable-header">
-                    <h3 class="title">Basic</h3>
-                    <span class="price-value">$10</span>
+                    <h3 class="title">Prøveperiode</h3>
+                    <span class="price-value">14 dage Gratis</span>
                 </div>
                 <ul class="pricing-content">
-                    <li>50GB Disk Space</li>
-                    <li>50 Email Accounts</li>
-                    <li>50GB Monthly Bandwidth</li>
-                    <li>10 Subdomains</li>
-                    <li>15 Domains</li>
+                    <li>Ubegrænset opretning af kunder</li>
+                    <li>Redering af kunder </li>
+                    <li>Sletning af kunder</li>
+                    <li>Søgning af kunder</li>
+                </ul>
+                <a href="#" class="pricingTable-signup text-decoration-none">Start gratis prøveperiode</a>
+            </div>
+        </div>
+
+
+        <div class="col-md-6 col-sm-12">
+            <div class="pricingTable">
+                <div class="pricingTable-header">
+                    <h3 class="title">Premium</h3>
+                    <span class="price-value ">750kr halvårligt</span>
+                </div>
+                <ul class="pricing-content">
+                    <li>Ubegrænset opretning af kunder</li>
+                    <li>Redering af kunder </li>
+                    <li>Sletning af kunder</li>
+                    <li>Søgning af kunder</li>
                 </ul>
                 <a href="#" class="pricingTable-signup text-decoration-none">Vælg abonnement</a>
             </div>
         </div>
 
-        <div class="col-md-4 col-sm-6">
-            <div class="pricingTable">
-                <div class="pricingTable-header">
-                    <h3 class="title">Pro</h3>
-                    <span class="price-value">$10</span>
-                </div>
-                <ul class="pricing-content">
-                    <li>50GB Disk Space</li>
-                    <li>50 Email Accounts</li>
-                    <li>50GB Monthly Bandwidth</li>
-                    <li>10 Subdomains</li>
-                    <li>15 Domains</li>
-                </ul>
-                <a href="#" class="pricingTable-signup text-decoration-none">Vælg abonnement</a>
-            </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <div class="pricingTable">
-                <div class="pricingTable-header">
-                    <h3 class="title">Premium</h3>
-                    <span class="price-value ">20 kr/md.</span>
-                </div>
-                <ul class="pricing-content">
-                    <li>60GB Disk Space</li>
-                    <li>60 Email Accounts</li>
-                    <li>60GB Monthly Bandwidth</li>
-                    <li>15 Subdomains</li>
-                    <li>20 Domains</li>
-                </ul>
-                <a href="#" class="pricingTable-signup text-decoration-none">Vælg abonnement</a>
-            </div>
-        </div>
     </div>
 </div>
 
@@ -138,17 +122,6 @@
         </div>
     </div>
 
-    <div class="accordion-item">
-        <div class="accordion-item-header">
-            <p class="faqtekst">Hvilken abonnement passer bedst til mig?</p>
-        </div>
-        <div class="accordion-item-body">
-            <div class="accordion-item-body-content mt-2">
-                Det kommer an på hvor stor din virksomhed er. Vi anbefaler basic abonnementet til nyopstartet virksomheder,
-                da de har funktioner der egner sig til nyopstartet virksomheder.
-            </div>
-        </div>
-    </div>
 
     <div class="accordion-item">
         <div class="accordion-item-header">
