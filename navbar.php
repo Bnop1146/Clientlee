@@ -83,7 +83,7 @@
             </ul>
         </div>
 
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <div class="collapse navbar-collapse justify-content-end flex-none" id="navbarNav">
 
             <ul class="navbar-nav login-flex">
                 <li class="nav-item">
