@@ -37,13 +37,13 @@
 
 
 
-            <svg xmlns="http://www.w3.org/2000/svg" width="210" height="44" viewBox="0 0 844.337 189.255">
+            <svg xmlns="http://www.w3.org/2000/svg" width="212" height="44" viewBox="0 0 844.337 189.255">
                 <g id="Clientlee_Logo" data-name="Clientlee Logo" transform="translate(-383 -452.3)">
                     <g id="Logo_No_Fill">
                         <path id="Path_33" data-name="Path 33" d="M583,552.3a99.767,99.767,0,0,1-34.3,75.4l-35.5-35.5a50,50,0,1,0-60.4,0l-35.5,35.5A100,100,0,1,1,583,552.3Z" fill="#0c0623"/>
                     </g>
                     <g id="Layer_7">
-                        <text id="logo" transform="translate(628.337 587.555)" fill="#fff" font-size="135.674" font-family="Nexa-Black, Nexa" font-weight="800"><tspan x="0" y="0">Clientlee</tspan></text>
+                        <text id="logo" transform="translate(628.337 587.555)" fill="#fff" font-size="130" font-family="Montserrat, sans-serif" font-weight="800"><tspan x="0" y="0">Clientlee</tspan></text>
                     </g>
                 </g>
             </svg>
