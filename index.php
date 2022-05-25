@@ -150,7 +150,7 @@
             <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Let at anvende</p>
             <p class="fortekst2"><i class="check fa-solid fa-circle-check me-2"></i>Brugervenligt UI</p>
 
-            <a class="forcta2 btn mt-4" href="#" role="button">Læs mere</a>
+            <a class="forcta2 btn mt-4" href="#" role="button">Opret bruger</a>
 
         </div>
 
