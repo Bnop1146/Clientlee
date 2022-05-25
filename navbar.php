@@ -87,10 +87,12 @@
 
             <ul class="navbar-nav login-flex">
                 <li class="nav-item">
-                    <a class="nav-link nav-link3 " id="nav-text" href="#"> Login</a>
+                    <a class="nav-link nav-link3 " id="nav-text" href="https://www.bnopone.dk/Clientlee_login/index.html "> Login</a>
                 </li>
                 <li class="nav-item btn">
+                    <a href="https://www.bnopone.dk/Clientlee_login/signup.php">
                     <button class="nav-btn nav-link4  " id="nav-text" > Opret gratis bruger</button>
+                    </a>
                 </li>
 
             </ul>
